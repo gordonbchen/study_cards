@@ -1,4 +1,4 @@
-# study_cards
+# study_cards 🏫🃏
 A hackable and lightweight program to study cards.
 
 ## Run
